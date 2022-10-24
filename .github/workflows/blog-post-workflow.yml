@@ -16,4 +16,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://www.servicenow.com/community/s/cgfwn76974/rss/search?filter=authorId%2CopenResponse%2CincludeTkbs&advanced=true&include_tkbs=true&openresponse=true&author_id=265565&collapse_discussion=true&search_type=thread&search_page_size=50.xml"
+          feed_list: "https://www.servicenow.com/community/s/cgfwn76974/rss/search?filter=authorId%2CopenResponse%2CincludeTkbs&advanced=true&include_tkbs=true&openresponse=true&author_id=265565&collapse_discussion=true&search_type=thread&search_page_size=150.xml"
+          max_post_count: 100
+          remove_duplicates: true
