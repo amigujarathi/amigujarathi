@@ -48,6 +48,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amigujarathi&show_icons=true&locale=en" alt="amigujarathi" /></p>
 
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Happy Diwali to all. #shortvideo #short #shortsvideo #inspirational #diwali #festival #happy](https://ytcards.demolab.com/?id=grCjygD3TPM&title=Happy+Diwali+to+all.+%23shortvideo+%23short+%23shortsvideo+%23inspirational+%23diwali+%23festival+%23happy&lang=en&timestamp=1666594089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Happy Diwali to all. #shortvideo #short #shortsvideo #inspirational #diwali #festival #happy")](https://www.youtube.com/watch?v=grCjygD3TPM)
