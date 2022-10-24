@@ -55,6 +55,21 @@
 - [ServiceNow Report Selection Guide | ServiceNow Reports tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-report-selection-guide-servicenow-reports-tips-and/ta-p/2346840)
 - [ServiceNow introduction to interactive filter | Custom Interactive Filter for ServiceNow Dashboards](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-interactive-filter-custom-interactive/ta-p/2312619)
 - [ServiceNow initialize vs newRecord | Servicenow tips and tricks | Sevicenow GlideRecord examples](https://www.servicenow.com/community/developer-articles/servicenow-initialize-vs-newrecord-servicenow-tips-and-tricks/ta-p/2312828)
+- [ServiceNow Scheduled Job | What is ServiceNow Scheduled Job | ServiceNow Scheduled Job with Example](https://www.servicenow.com/community/developer-articles/servicenow-scheduled-job-what-is-servicenow-scheduled-job/ta-p/2314913)
+- [ServiceNow incident management | ServiceNow IT Ticket Management | ServiceNow Incident Process](https://www.servicenow.com/community/developer-articles/servicenow-incident-management-servicenow-it-ticket-management/ta-p/2312811)
+- [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example | ServiceNow Actions](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2323582)
+- [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow | ServiceNow Flow Designer](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2323499)
+- [ServiceNow Form Section Hide / Show | ServiceNow form section | ServiceNow Client script](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2323359)
+- [ServiceNow Notification | ServiceNow Notification triggers | ServiceNow notification trigger demo](https://www.servicenow.com/community/developer-articles/servicenow-notification-servicenow-notification-triggers/ta-p/2323286)
+- [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2322814)
+- [ServiceNow Flow  alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2322804)
+- [ServiceNow use case Make all fields Read-only using Client Script | ServiceNow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-use-case-make-all-fields-read-only-using-client/ta-p/2322362)
+- [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder with Demo | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2322180)
+- [ServiceNow introduction to remote table | ServiceNow remote table to retrieve table external source](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-remote-table-servicenow-remote-table/ta-p/2301420)
+- [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2301432)
+- [ServiceNow JavaScript tutorials String functions | ServiceNow JavaScript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2305826)
+- [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2302505)
+- [ServiceNow Personal Best Practices Checklist](https://www.servicenow.com/community/developer-articles/servicenow-personal-best-practices-checklist/ta-p/2303749)
 <!-- BLOG-POST-LIST:END -->
 
 
