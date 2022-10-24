@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://www.servicenow.com/community/s/cgfwn76974/rss/search?rerenderComponentId=search.widget.message-search&cancelPendingOnNewRequest=false&allowPunctuation=false&componentQuilt=MessageSearch&listItemQuilt=MessageSearchItem&cancel_pending_on_new=false&quilt=MessageSearch&advanced=true&openresponse=true&collapse_discussion=true&search_type=thread&list_item_quilt=MessageSearchItem&filter=authorId%2CopenResponse%2Clabels%2CincludeTkbs&component=search.widget.message-search&include_tkbs=true&allow_punctuation=false&author_id=265565&search_page_size=50"
+          feed_list: "https://www.servicenow.com/community/s/cgfwn76974/search"
