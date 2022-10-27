@@ -50,9 +50,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Approval API to Approve / Reject records by authorized user](https://www.servicenow.com/community/developer-articles/approval-api-to-approve-reject-records-by-authorized-user/ta-p/2355361)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
 - [ServiceNow Report Selection Guide | ServiceNow Reports tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-report-selection-guide-servicenow-reports-tips-and/ta-p/2346840)
+- [ServiceNow Xplore developer toolkit | ServiceNow how to install Xplore on your instance | Servicenow](https://www.servicenow.com/community/developer-articles/servicenow-xplore-developer-toolkit-servicenow-how-to-install/ta-p/2316530)
 - [ServiceNow introduction to interactive filter | Custom Interactive Filter for ServiceNow Dashboards](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-interactive-filter-custom-interactive/ta-p/2312619)
 - [ServiceNow initialize vs newRecord | Servicenow tips and tricks | Sevicenow GlideRecord examples](https://www.servicenow.com/community/developer-articles/servicenow-initialize-vs-newrecord-servicenow-tips-and-tricks/ta-p/2312828)
 - [ServiceNow Scheduled Job | What is ServiceNow Scheduled Job | ServiceNow Scheduled Job with Example](https://www.servicenow.com/community/developer-articles/servicenow-scheduled-job-what-is-servicenow-scheduled-job/ta-p/2314913)
