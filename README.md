@@ -50,13 +50,13 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow flow designer Subflow | Subflow demo in ServiceNow | ServiceNow Subflow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-subflow-subflow-demo-in-servicenow/ta-p/2373726)
 - [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2373723)
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2373720)
 - [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
 - [Azure DevOps add new Test Type Integration via OOB API](https://www.servicenow.com/community/developer-articles/azure-devops-add-new-test-type-integration-via-oob-api/ta-p/2361051)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
 - [ServiceNow Report Selection Guide | ServiceNow Reports tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-report-selection-guide-servicenow-reports-tips-and/ta-p/2346840)
-- [ServiceNow incident management | ServiceNow IT Ticket Management | ServiceNow Incident Process](https://www.servicenow.com/community/developer-articles/servicenow-incident-management-servicenow-it-ticket-management/ta-p/2312811)
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example | ServiceNow Actions](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2323582)
 - [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow | ServiceNow Flow Designer](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2323499)
 - [ServiceNow Form Section Hide / Show | ServiceNow form section | ServiceNow Client script](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2323359)
