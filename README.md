@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Notification | ServiceNow Notification triggers](https://www.servicenow.com/community/developer-articles/servicenow-notification-servicenow-notification-triggers/ta-p/2373706)
 - [ServiceNow Introduction to addJoinQuery&lpar;&rpar; method with demo](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-addjoinquery-method-with-demo/ta-p/2362637)
 - [ServiceNow flow designer Subflow | Subflow demo in ServiceNow | ServiceNow Subflow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-subflow-subflow-demo-in-servicenow/ta-p/2373726)
 - [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2373723)
@@ -58,7 +59,6 @@
 - [Azure DevOps add new Test Type Integration via OOB API](https://www.servicenow.com/community/developer-articles/azure-devops-add-new-test-type-integration-via-oob-api/ta-p/2361051)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
 - [ServiceNow Report Selection Guide | ServiceNow Reports tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-report-selection-guide-servicenow-reports-tips-and/ta-p/2346840)
-- [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow | ServiceNow Flow Designer](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2323499)
 - [ServiceNow Form Section Hide / Show | ServiceNow form section | ServiceNow Client script](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2323359)
 - [ServiceNow Notification | ServiceNow Notification triggers | ServiceNow notification trigger demo](https://www.servicenow.com/community/developer-articles/servicenow-notification-servicenow-notification-triggers/ta-p/2323286)
 - [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2322814)
