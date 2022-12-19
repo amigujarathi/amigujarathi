@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Email Filter | Introduction to ServiceNow Email filter with Demo](https://www.servicenow.com/community/developer-articles/servicenow-email-filter-introduction-to-servicenow-email-filter/ta-p/2362673)
 - [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
 - [ServiceNow Glide Record deleteRecord vs deleteMultiple method](https://www.servicenow.com/community/developer-articles/servicenow-glide-record-deleterecord-vs-deletemultiple-method/ta-p/2406064)
 - [ServiceNow Introduction to addJoinQuery&lpar;&rpar; method with demo](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-addjoinquery-method-with-demo/ta-p/2362637)
@@ -60,7 +61,6 @@
 - [Azure DevOps add new Test Type Integration via OOB API](https://www.servicenow.com/community/developer-articles/azure-devops-add-new-test-type-integration-via-oob-api/ta-p/2361051)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
 - [ServiceNow Report Selection Guide | ServiceNow Reports tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-report-selection-guide-servicenow-reports-tips-and/ta-p/2346840)
-- [ServiceNow Notification | ServiceNow Notification triggers | ServiceNow notification trigger demo](https://www.servicenow.com/community/developer-articles/servicenow-notification-servicenow-notification-triggers/ta-p/2323286)
 - [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2322814)
 - [ServiceNow Flow  alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2322804)
 - [ServiceNow use case Make all fields Read-only using Client Script | ServiceNow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-use-case-make-all-fields-read-only-using-client/ta-p/2322362)
