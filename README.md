@@ -60,7 +60,7 @@
 - [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
 - [Azure DevOps add new Test Type Integration via OOB API](https://www.servicenow.com/community/developer-articles/azure-devops-add-new-test-type-integration-via-oob-api/ta-p/2361051)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
-- [ServiceNow Report Selection Guide | ServiceNow Reports tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-report-selection-guide-servicenow-reports-tips-and/ta-p/2346840)
+- [ServiceNow Notification | ServiceNow Notification triggers | ServiceNow notification trigger demo](https://www.servicenow.com/community/developer-articles/servicenow-notification-servicenow-notification-triggers/ta-p/2323286)
 - [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2322814)
 - [ServiceNow Flow  alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2322804)
 - [ServiceNow use case Make all fields Read-only using Client Script | ServiceNow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-use-case-make-all-fields-read-only-using-client/ta-p/2322362)
