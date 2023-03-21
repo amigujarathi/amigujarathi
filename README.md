@@ -56,7 +56,6 @@
 - [Scripted Rest API to add work notes to the Change Request](https://www.servicenow.com/community/developer-articles/scripted-rest-api-to-add-work-notes-to-the-change-request/ta-p/2402263)
 - [UI action : Add Confirm Window on the click of cancel button](https://www.servicenow.com/community/developer-articles/ui-action-add-confirm-window-on-the-click-of-cancel-button/ta-p/2406091)
 - [ServiceNow introduction to Javascript functions | ServiceNow better coding with Javascript Functions](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-javascript-functions-servicenow/ta-p/2373704)
-- [ServiceNow Activity Filter | Introduction to ServiceNow Activity Filter with Demo](https://www.servicenow.com/community/developer-articles/servicenow-activity-filter-introduction-to-servicenow-activity/ta-p/2362677)
 - [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
 - [ServiceNow Glide Record deleteRecord vs deleteMultiple method](https://www.servicenow.com/community/developer-articles/servicenow-glide-record-deleterecord-vs-deletemultiple-method/ta-p/2406064)
 - [ServiceNow Introduction to addJoinQuery&lpar;&rpar; method with demo](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-addjoinquery-method-with-demo/ta-p/2362637)
