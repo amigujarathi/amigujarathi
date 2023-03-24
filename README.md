@@ -57,19 +57,11 @@
 - [Scripted Rest API to add work notes to the Change Request](https://www.servicenow.com/community/developer-articles/scripted-rest-api-to-add-work-notes-to-the-change-request/ta-p/2402263)
 - [UI action : Add Confirm Window on the click of cancel button](https://www.servicenow.com/community/developer-articles/ui-action-add-confirm-window-on-the-click-of-cancel-button/ta-p/2406091)
 - [ServiceNow introduction to Javascript functions | ServiceNow better coding with Javascript Functions](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-javascript-functions-servicenow/ta-p/2373704)
-- [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
 - [ServiceNow Glide Record deleteRecord vs deleteMultiple method](https://www.servicenow.com/community/developer-articles/servicenow-glide-record-deleterecord-vs-deletemultiple-method/ta-p/2406064)
-- [ServiceNow Introduction to addJoinQuery&lpar;&rpar; method with demo](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-addjoinquery-method-with-demo/ta-p/2362637)
 - [ServiceNow flow designer Subflow | Subflow demo in ServiceNow | ServiceNow Subflow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-subflow-subflow-demo-in-servicenow/ta-p/2373726)
 - [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2373723)
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2373720)
 - [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
-- [Azure DevOps add new Test Type Integration via OOB API](https://www.servicenow.com/community/developer-articles/azure-devops-add-new-test-type-integration-via-oob-api/ta-p/2361051)
-- [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
-- [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2301432)
-- [ServiceNow JavaScript tutorials String functions | ServiceNow JavaScript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2305826)
-- [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2302505)
-- [ServiceNow Personal Best Practices Checklist](https://www.servicenow.com/community/developer-articles/servicenow-personal-best-practices-checklist/ta-p/2303749)
 <!-- BLOG-POST-LIST:END -->
 
 
