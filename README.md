@@ -64,7 +64,6 @@
 - [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2373723)
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2373720)
 - [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
-- [Azure DevOps add new Test Type Integration via OOB API](https://www.servicenow.com/community/developer-articles/azure-devops-add-new-test-type-integration-via-oob-api/ta-p/2361051)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
 - [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2301432)
 - [ServiceNow JavaScript tutorials String functions | ServiceNow JavaScript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2305826)
