@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2373700)
 - [ServiceNow Flow alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2373698)
 - [ServiceNow Introduction to GlideForm API ==&gt; ServiceNow JavaScript Challenge Day 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-gt-servicenow/ta-p/2387510)
 - [ServiceNow introduction to getReference | ServiceNow getreference with callback function](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-getreference-servicenow-getreference/ta-p/2373702)
@@ -66,7 +67,6 @@
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2373720)
 - [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
-- [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2301432)
 - [ServiceNow JavaScript tutorials String functions | ServiceNow JavaScript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2305826)
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2302505)
 - [ServiceNow Personal Best Practices Checklist](https://www.servicenow.com/community/developer-articles/servicenow-personal-best-practices-checklist/ta-p/2303749)
