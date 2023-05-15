@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golden rules for developers to understand the Impact and Severity of customization](https://www.servicenow.com/community/developer-articles/golden-rules-for-developers-to-understand-the-impact-and/ta-p/2361068)
 - [ServiceNow UI action confirmation | ServiceNow Usecase Confirmation pop- up on destructive UI action](https://www.servicenow.com/community/developer-articles/servicenow-ui-action-confirmation-servicenow-usecase/ta-p/2373689)
 - [ServiceNow use case Make all fields Read-only using Client Script | ServiceNow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-use-case-make-all-fields-read-only-using-client/ta-p/2373696)
 - [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2373700)
@@ -69,7 +70,6 @@
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2373720)
 - [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
 - [Cancel the workflow | Introduction to Workflow API](https://www.servicenow.com/community/developer-articles/cancel-the-workflow-introduction-to-workflow-api/ta-p/2348790)
-- [ServiceNow Personal Best Practices Checklist](https://www.servicenow.com/community/developer-articles/servicenow-personal-best-practices-checklist/ta-p/2303749)
 <!-- BLOG-POST-LIST:END -->
 
 
