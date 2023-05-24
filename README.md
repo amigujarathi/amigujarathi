@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deactivate SMS Notifications in ServiceNow](https://www.servicenow.com/community/developer-articles/how-to-deactivate-sms-notifications-in-servicenow/ta-p/2570244)
 - [ServiceNow Should we utilize the CSM/FSM Workspace](https://www.servicenow.com/community/developer-articles/servicenow-should-we-utilize-the-csm-fsm-workspace/ta-p/2568663)
 - [Golden rules for developers to understand the Impact and Severity of customization](https://www.servicenow.com/community/developer-articles/golden-rules-for-developers-to-understand-the-impact-and/ta-p/2361068)
 - [ServiceNow UI action confirmation | ServiceNow Usecase Confirmation pop- up on destructive UI action](https://www.servicenow.com/community/developer-articles/servicenow-ui-action-confirmation-servicenow-usecase/ta-p/2373689)
@@ -69,7 +70,6 @@
 - [ServiceNow flow designer Subflow | Subflow demo in ServiceNow | ServiceNow Subflow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-subflow-subflow-demo-in-servicenow/ta-p/2373726)
 - [ServiceNow flow designer Custom Action | Custom Action demo in ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-custom-action-custom-action-demo-in/ta-p/2373723)
 - [ServiceNow Flow designer Part 2 | How ServiceNow Flow works with Demo Example](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-part-2-how-servicenow-flow-works-with/ta-p/2373720)
-- [Servicenow Form Section Hide / Show | Servicenow form section](https://www.servicenow.com/community/developer-articles/servicenow-form-section-hide-show-servicenow-form-section/ta-p/2373711)
 <!-- BLOG-POST-LIST:END -->
 
 
