@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Upgrade Strategies: Planning and Executing a Successful Upgrade](https://www.servicenow.com/community/developer-articles/servicenow-upgrade-strategies-planning-and-executing-a/ta-p/2577941)
 - [Unlocking the Power of ServiceNow: A Comprehensive Guide to GlideRecordSecure](https://www.servicenow.com/community/developer-articles/unlocking-the-power-of-servicenow-a-comprehensive-guide-to/ta-p/2573596)
 - [Automating Annual Standard Change Reviews](https://www.servicenow.com/community/developer-articles/automating-annual-standard-change-reviews/ta-p/2571729)
 - [Troubleshooting Syncing Attachments from Jira to ServiceNow](https://www.servicenow.com/community/developer-articles/troubleshooting-syncing-attachments-from-jira-to-servicenow/ta-p/2570717)
@@ -69,7 +70,6 @@
 - [ServiceNow introduction to Javascript functions | ServiceNow better coding with Javascript Functions](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-javascript-functions-servicenow/ta-p/2373704)
 - [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
 - [ServiceNow Glide Record deleteRecord vs deleteMultiple method](https://www.servicenow.com/community/developer-articles/servicenow-glide-record-deleterecord-vs-deletemultiple-method/ta-p/2406064)
-- [ServiceNow Introduction to addJoinQuery&lpar;&rpar; method with demo](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-addjoinquery-method-with-demo/ta-p/2362637)
 <!-- BLOG-POST-LIST:END -->
 
 
