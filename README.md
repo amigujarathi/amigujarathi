@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Script Include Support for Inheritance with Coding Example](https://www.servicenow.com/community/developer-articles/servicenow-script-include-support-for-inheritance-with-coding/ta-p/2580610)
 - [ServiceNow Upgrade Strategies: Planning and Executing a Successful Upgrade](https://www.servicenow.com/community/developer-articles/servicenow-upgrade-strategies-planning-and-executing-a/ta-p/2577941)
 - [Unlocking the Power of ServiceNow: A Comprehensive Guide to GlideRecordSecure](https://www.servicenow.com/community/developer-articles/unlocking-the-power-of-servicenow-a-comprehensive-guide-to/ta-p/2573596)
 - [Automating Annual Standard Change Reviews](https://www.servicenow.com/community/developer-articles/automating-annual-standard-change-reviews/ta-p/2571729)
@@ -69,7 +70,6 @@
 - [UI action : Add Confirm Window on the click of cancel button](https://www.servicenow.com/community/developer-articles/ui-action-add-confirm-window-on-the-click-of-cancel-button/ta-p/2406091)
 - [ServiceNow introduction to Javascript functions | ServiceNow better coding with Javascript Functions](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-javascript-functions-servicenow/ta-p/2373704)
 - [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
-- [ServiceNow Glide Record deleteRecord vs deleteMultiple method](https://www.servicenow.com/community/developer-articles/servicenow-glide-record-deleterecord-vs-deletemultiple-method/ta-p/2406064)
 <!-- BLOG-POST-LIST:END -->
 
 
