@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder with Demo Chapter-1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373692)
 - [ServiceNow Introduction to GlideEncrypter with Example](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-with-example/ta-p/2584867)
 - [ServiceNow Script Include Support for Inheritance with Coding Example](https://www.servicenow.com/community/developer-articles/servicenow-script-include-support-for-inheritance-with-coding/ta-p/2580610)
 - [ServiceNow Upgrade Strategies: Planning and Executing a Successful Upgrade](https://www.servicenow.com/community/developer-articles/servicenow-upgrade-strategies-planning-and-executing-a/ta-p/2577941)
@@ -69,7 +70,6 @@
 - [Scripted Rest API to add work notes to the Change Request](https://www.servicenow.com/community/developer-articles/scripted-rest-api-to-add-work-notes-to-the-change-request/ta-p/2402263)
 - [UI action : Add Confirm Window on the click of cancel button](https://www.servicenow.com/community/developer-articles/ui-action-add-confirm-window-on-the-click-of-cancel-button/ta-p/2406091)
 - [ServiceNow introduction to Javascript functions | ServiceNow better coding with Javascript Functions](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-javascript-functions-servicenow/ta-p/2373704)
-- [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
 <!-- BLOG-POST-LIST:END -->
 
 
