@@ -59,7 +59,6 @@
 - [ServiceNow Upgrade Strategies: Planning and Executing a Successful Upgrade](https://www.servicenow.com/community/developer-articles/servicenow-upgrade-strategies-planning-and-executing-a/ta-p/2577941)
 - [Automating Annual Standard Change Reviews](https://www.servicenow.com/community/developer-articles/automating-annual-standard-change-reviews/ta-p/2571729)
 - [Troubleshooting Syncing Attachments from Jira to ServiceNow](https://www.servicenow.com/community/developer-articles/troubleshooting-syncing-attachments-from-jira-to-servicenow/ta-p/2570717)
-- [How to Deactivate SMS Notifications in ServiceNow](https://www.servicenow.com/community/developer-articles/how-to-deactivate-sms-notifications-in-servicenow/ta-p/2570244)
 - [ServiceNow Should we utilize the CSM/FSM Workspace](https://www.servicenow.com/community/developer-articles/servicenow-should-we-utilize-the-csm-fsm-workspace/ta-p/2568663)
 - [Golden rules for developers to understand the Impact and Severity of customization](https://www.servicenow.com/community/developer-articles/golden-rules-for-developers-to-understand-the-impact-and/ta-p/2361068)
 - [ServiceNow UI action confirmation | ServiceNow Usecase Confirmation pop- up on destructive UI action](https://www.servicenow.com/community/developer-articles/servicenow-ui-action-confirmation-servicenow-usecase/ta-p/2373689)
@@ -70,6 +69,7 @@
 - [ServiceNow introduction to getReference | ServiceNow getreference with callback function](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-getreference-servicenow-getreference/ta-p/2373702)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2387477)
 - [ServiceNow introduction to remote table | ServiceNow remote table to retrieve table external source](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-remote-table-servicenow-remote-table/ta-p/2373682)
+- [Scripted Rest API to add work notes to the Change Request](https://www.servicenow.com/community/developer-articles/scripted-rest-api-to-add-work-notes-to-the-change-request/ta-p/2402263)
 <!-- BLOG-POST-LIST:END -->
 
 
