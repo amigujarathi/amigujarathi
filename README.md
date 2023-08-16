@@ -50,7 +50,6 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow Move Bulk Updates into current update set use case | ServiceNow update set tips and trick](https://www.servicenow.com/community/developer-articles/servicenow-move-bulk-updates-into-current-update-set-use-case/ta-p/2362762)
 - [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2373680)
 - [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder Homepage Chapter 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373684)
 - [ServiceNow integration hub tutorial | ServiceNow import data using integration hub example](https://www.servicenow.com/community/developer-articles/servicenow-integration-hub-tutorial-servicenow-import-data-using/ta-p/2373664)
@@ -70,6 +69,7 @@
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2387477)
 - [ServiceNow introduction to remote table | ServiceNow remote table to retrieve table external source](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-remote-table-servicenow-remote-table/ta-p/2373682)
 - [Scripted Rest API to add work notes to the Change Request](https://www.servicenow.com/community/developer-articles/scripted-rest-api-to-add-work-notes-to-the-change-request/ta-p/2402263)
+- [UI action : Add Confirm Window on the click of cancel button](https://www.servicenow.com/community/developer-articles/ui-action-add-confirm-window-on-the-click-of-cancel-button/ta-p/2406091)
 <!-- BLOG-POST-LIST:END -->
 
 
