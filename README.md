@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Flow Designer loop | ServiceNow loop in flow | ServiceNow Flow designer tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-loop-servicenow-loop-in-flow-servicenow/ta-p/2362706)
 - [Introduction to Service Catalog Variables with Demo | Service Catalog variables tips and tricks](https://www.servicenow.com/community/developer-articles/introduction-to-service-catalog-variables-with-demo-service/ta-p/2362649)
 - [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2373680)
 - [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder Homepage Chapter 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373684)
@@ -69,7 +70,6 @@
 - [ServiceNow introduction to getReference | ServiceNow getreference with callback function](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-getreference-servicenow-getreference/ta-p/2373702)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2387477)
 - [ServiceNow introduction to remote table | ServiceNow remote table to retrieve table external source](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-remote-table-servicenow-remote-table/ta-p/2373682)
-- [Scripted Rest API to add work notes to the Change Request](https://www.servicenow.com/community/developer-articles/scripted-rest-api-to-add-work-notes-to-the-change-request/ta-p/2402263)
 <!-- BLOG-POST-LIST:END -->
 
 
