@@ -59,6 +59,7 @@
 - [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder with Demo Chapter-1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373692)
 - [ServiceNow Script Include Support for Inheritance with Coding Example](https://www.servicenow.com/community/developer-articles/servicenow-script-include-support-for-inheritance-with-coding/ta-p/2580610)
 - [ServiceNow Upgrade Strategies: Planning and Executing a Successful Upgrade](https://www.servicenow.com/community/developer-articles/servicenow-upgrade-strategies-planning-and-executing-a/ta-p/2577941)
+- [Automating Annual Standard Change Reviews](https://www.servicenow.com/community/developer-articles/automating-annual-standard-change-reviews/ta-p/2571729)
 - [Troubleshooting Syncing Attachments from Jira to ServiceNow](https://www.servicenow.com/community/developer-articles/troubleshooting-syncing-attachments-from-jira-to-servicenow/ta-p/2570717)
 - [ServiceNow Should we utilize the CSM/FSM Workspace](https://www.servicenow.com/community/developer-articles/servicenow-should-we-utilize-the-csm-fsm-workspace/ta-p/2568663)
 - [Golden rules for developers to understand the Impact and Severity of customization](https://www.servicenow.com/community/developer-articles/golden-rules-for-developers-to-understand-the-impact-and/ta-p/2361068)
@@ -68,8 +69,7 @@
 - [ServiceNow Flow alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2373698)
 - [ServiceNow Introduction to GlideForm API ==&gt; ServiceNow JavaScript Challenge Day 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-gt-servicenow/ta-p/2387510)
 - [ServiceNow introduction to getReference | ServiceNow getreference with callback function](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-getreference-servicenow-getreference/ta-p/2373702)
-- [ServiceNow introduction to Javascript functions | ServiceNow better coding with Javascript Functions](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-javascript-functions-servicenow/ta-p/2373704)
-- [ServiceNow Dictionary Override | Introduction to ServiceNow Dictionary Override with Demo](https://www.servicenow.com/community/developer-articles/servicenow-dictionary-override-introduction-to-servicenow/ta-p/2362667)
+- [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2387477)
 <!-- BLOG-POST-LIST:END -->
 
 
