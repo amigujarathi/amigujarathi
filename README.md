@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to ServiceNow System Property ServiceNow System Property Tips and Tricks with Demo](https://www.servicenow.com/community/developer-articles/introduction-to-servicenow-system-property-servicenow-system/ta-p/2362750)
 - [ServiceNow Webkit HTML to PDF Plugin | ServiceNow Plugins demo](https://www.servicenow.com/community/developer-articles/servicenow-webkit-html-to-pdf-plugin-servicenow-plugins-demo/ta-p/2362723)
 - [ServiceNow Flow Designer loop | ServiceNow loop in flow | ServiceNow Flow designer tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-loop-servicenow-loop-in-flow-servicenow/ta-p/2362706)
 - [Introduction to Service Catalog Variables with Demo | Service Catalog variables tips and tricks](https://www.servicenow.com/community/developer-articles/introduction-to-service-catalog-variables-with-demo-service/ta-p/2362649)
@@ -69,7 +70,6 @@
 - [ServiceNow Flow alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2373698)
 - [ServiceNow Introduction to GlideForm API ==&gt; ServiceNow JavaScript Challenge Day 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-gt-servicenow/ta-p/2387510)
 - [ServiceNow introduction to getReference | ServiceNow getreference with callback function](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-getreference-servicenow-getreference/ta-p/2373702)
-- [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2387477)
 <!-- BLOG-POST-LIST:END -->
 
 
