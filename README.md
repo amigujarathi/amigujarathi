@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Syntax Editor Macro | ServiceNow Introduction to Syntax Editor Macro with Demo](https://www.servicenow.com/community/developer-articles/servicenow-syntax-editor-macro-servicenow-introduction-to-syntax/ta-p/2362756)
 - [ServiceNow Glide Modal Prompt update pop up | ServiceNow Glide Modal use case with demo](https://www.servicenow.com/community/developer-articles/servicenow-glide-modal-prompt-update-pop-up-servicenow-glide/ta-p/2362755)
 - [Introduction to ServiceNow getBooleanValue function | ServiceNow Client script tricks and tips](https://www.servicenow.com/community/developer-articles/introduction-to-servicenow-getbooleanvalue-function-servicenow/ta-p/2362754)
 - [Introduction to ServiceNow System Property ServiceNow System Property Tips and Tricks with Demo](https://www.servicenow.com/community/developer-articles/introduction-to-servicenow-system-property-servicenow-system/ta-p/2362750)
@@ -69,7 +70,6 @@
 - [ServiceNow UI action confirmation | ServiceNow Usecase Confirmation pop- up on destructive UI action](https://www.servicenow.com/community/developer-articles/servicenow-ui-action-confirmation-servicenow-usecase/ta-p/2373689)
 - [ServiceNow use case Make all fields Read-only using Client Script | ServiceNow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-use-case-make-all-fields-read-only-using-client/ta-p/2373696)
 - [ServiceNow Usecase Open Email from Activity Log | ServiceNow tricks email logs | ServiceNow tricks](https://www.servicenow.com/community/developer-articles/servicenow-usecase-open-email-from-activity-log-servicenow/ta-p/2373700)
-- [ServiceNow Flow alternative to Scheduled Job | ServiceNow Flow designer live Use case | ServiceNow](https://www.servicenow.com/community/developer-articles/servicenow-flow-alternative-to-scheduled-job-servicenow-flow/ta-p/2373698)
 <!-- BLOG-POST-LIST:END -->
 
 
