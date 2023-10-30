@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert Data policy to UI policy and Vice versa](https://www.servicenow.com/community/developer-articles/convert-data-policy-to-ui-policy-and-vice-versa/ta-p/2367689)
 - [ServiceNow Use case Field Visibility Based on Button | ServiceNow UI action Demo](https://www.servicenow.com/community/developer-articles/servicenow-use-case-field-visibility-based-on-button-servicenow/ta-p/2362758)
 - [ServiceNow Syntax Editor Macro | ServiceNow Introduction to Syntax Editor Macro with Demo](https://www.servicenow.com/community/developer-articles/servicenow-syntax-editor-macro-servicenow-introduction-to-syntax/ta-p/2362756)
 - [ServiceNow Glide Modal Prompt update pop up | ServiceNow Glide Modal use case with demo](https://www.servicenow.com/community/developer-articles/servicenow-glide-modal-prompt-update-pop-up-servicenow-glide/ta-p/2362755)
@@ -69,7 +70,6 @@
 - [ServiceNow Should we utilize the CSM/FSM Workspace](https://www.servicenow.com/community/developer-articles/servicenow-should-we-utilize-the-csm-fsm-workspace/ta-p/2568663)
 - [Golden rules for developers to understand the Impact and Severity of customization](https://www.servicenow.com/community/developer-articles/golden-rules-for-developers-to-understand-the-impact-and/ta-p/2361068)
 - [ServiceNow UI action confirmation | ServiceNow Usecase Confirmation pop- up on destructive UI action](https://www.servicenow.com/community/developer-articles/servicenow-ui-action-confirmation-servicenow-usecase/ta-p/2373689)
-- [ServiceNow use case Make all fields Read-only using Client Script | ServiceNow tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-use-case-make-all-fields-read-only-using-client/ta-p/2373696)
 <!-- BLOG-POST-LIST:END -->
 
 
