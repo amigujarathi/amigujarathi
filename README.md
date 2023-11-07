@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 - [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
 - [Convert Data policy to UI policy and Vice versa](https://www.servicenow.com/community/developer-articles/convert-data-policy-to-ui-policy-and-vice-versa/ta-p/2367689)
 - [ServiceNow Use case Field Visibility Based on Button | ServiceNow UI action Demo](https://www.servicenow.com/community/developer-articles/servicenow-use-case-field-visibility-based-on-button-servicenow/ta-p/2362758)
@@ -69,7 +70,6 @@
 - [Automating Annual Standard Change Reviews](https://www.servicenow.com/community/developer-articles/automating-annual-standard-change-reviews/ta-p/2571729)
 - [Troubleshooting Syncing Attachments from Jira to ServiceNow](https://www.servicenow.com/community/developer-articles/troubleshooting-syncing-attachments-from-jira-to-servicenow/ta-p/2570717)
 - [ServiceNow Should we utilize the CSM/FSM Workspace](https://www.servicenow.com/community/developer-articles/servicenow-should-we-utilize-the-csm-fsm-workspace/ta-p/2568663)
-- [Golden rules for developers to understand the Impact and Severity of customization](https://www.servicenow.com/community/developer-articles/golden-rules-for-developers-to-understand-the-impact-and/ta-p/2361068)
 <!-- BLOG-POST-LIST:END -->
 
 
