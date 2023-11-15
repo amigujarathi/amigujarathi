@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to ServiceNow Delta Exam: Mastering the Vancouver Release &lpar;2023-2024&rpar;](https://www.servicenow.com/community/community-resources/the-ultimate-guide-to-servicenow-delta-exam-mastering-the/ta-p/2733371)
 - [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
 - [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 - [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
@@ -69,7 +70,6 @@
 - [ServiceNow Script Include Support for Inheritance with Coding Example](https://www.servicenow.com/community/developer-articles/servicenow-script-include-support-for-inheritance-with-coding/ta-p/2580610)
 - [ServiceNow Upgrade Strategies: Planning and Executing a Successful Upgrade](https://www.servicenow.com/community/developer-articles/servicenow-upgrade-strategies-planning-and-executing-a/ta-p/2577941)
 - [Automating Annual Standard Change Reviews](https://www.servicenow.com/community/developer-articles/automating-annual-standard-change-reviews/ta-p/2571729)
-- [Troubleshooting Syncing Attachments from Jira to ServiceNow](https://www.servicenow.com/community/developer-articles/troubleshooting-syncing-attachments-from-jira-to-servicenow/ta-p/2570717)
 <!-- BLOG-POST-LIST:END -->
 
 
