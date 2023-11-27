@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow JavaScript tutorials String functions | ServiceNow Javascript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2373677)
 - [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 6-9](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2388700)
 - [The Ultimate Guide to ServiceNow Delta Exam: Mastering the Vancouver Release &lpar;2023-2024&rpar;](https://www.servicenow.com/community/community-resources/the-ultimate-guide-to-servicenow-delta-exam-mastering-the/ta-p/2733371)
@@ -69,7 +70,6 @@
 - [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder Homepage Chapter 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373684)
 - [ServiceNow integration hub tutorial | ServiceNow import data using integration hub example](https://www.servicenow.com/community/developer-articles/servicenow-integration-hub-tutorial-servicenow-import-data-using/ta-p/2373664)
 - [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder with Demo Chapter-1](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373692)
-- [ServiceNow Script Include Support for Inheritance with Coding Example](https://www.servicenow.com/community/developer-articles/servicenow-script-include-support-for-inheritance-with-coding/ta-p/2580610)
 <!-- BLOG-POST-LIST:END -->
 
 
