@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Disabling Tags in ServiceNow](https://www.servicenow.com/community/developer-articles/a-comprehensive-guide-to-disabling-tags-in-servicenow/ta-p/2748915)
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
 - [ServiceNow JavaScript tutorials String functions | ServiceNow Javascript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2373677)
 - [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
@@ -69,7 +70,6 @@
 - [Introduction to Service Catalog Variables with Demo | Service Catalog variables tips and tricks](https://www.servicenow.com/community/developer-articles/introduction-to-service-catalog-variables-with-demo-service/ta-p/2362649)
 - [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2373680)
 - [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder Homepage Chapter 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373684)
-- [ServiceNow integration hub tutorial | ServiceNow import data using integration hub example](https://www.servicenow.com/community/developer-articles/servicenow-integration-hub-tutorial-servicenow-import-data-using/ta-p/2373664)
 <!-- BLOG-POST-LIST:END -->
 
 
