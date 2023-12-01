@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 - [A Comprehensive Guide to Disabling Tags in ServiceNow](https://www.servicenow.com/community/developer-articles/a-comprehensive-guide-to-disabling-tags-in-servicenow/ta-p/2748915)
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
 - [ServiceNow JavaScript tutorials String functions | ServiceNow Javascript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2373677)
@@ -69,7 +70,6 @@
 - [ServiceNow Flow Designer loop | ServiceNow loop in flow | ServiceNow Flow designer tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-loop-servicenow-loop-in-flow-servicenow/ta-p/2362706)
 - [Introduction to Service Catalog Variables with Demo | Service Catalog variables tips and tricks](https://www.servicenow.com/community/developer-articles/introduction-to-service-catalog-variables-with-demo-service/ta-p/2362649)
 - [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2373680)
-- [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder Homepage Chapter 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373684)
 <!-- BLOG-POST-LIST:END -->
 
 
