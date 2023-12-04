@@ -69,7 +69,7 @@
 - [ServiceNow Webkit HTML to PDF Plugin | ServiceNow Plugins demo](https://www.servicenow.com/community/developer-articles/servicenow-webkit-html-to-pdf-plugin-servicenow-plugins-demo/ta-p/2362723)
 - [ServiceNow Flow Designer loop | ServiceNow loop in flow | ServiceNow Flow designer tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-loop-servicenow-loop-in-flow-servicenow/ta-p/2362706)
 - [Introduction to Service Catalog Variables with Demo | Service Catalog variables tips and tricks](https://www.servicenow.com/community/developer-articles/introduction-to-service-catalog-variables-with-demo-service/ta-p/2362649)
-- [ServiceNow Introduction to GlideEncrypter API | GlideEncrypter API with the use case](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideencrypter-api-glideencrypter-api/ta-p/2373680)
+- [ServiceNow introduction to ServiceNow Now experience | ServiceNow UI Builder Homepage Chapter 2](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-servicenow-now-experience-servicenow/ta-p/2373684)
 <!-- BLOG-POST-LIST:END -->
 
 
