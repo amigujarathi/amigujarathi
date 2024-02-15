@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
 - [ServiceNow Cloning: A Guide to Resolving Missing Attachments](https://www.servicenow.com/community/developer-articles/servicenow-cloning-a-guide-to-resolving-missing-attachments/ta-p/2759058)
 - [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
@@ -69,7 +70,6 @@
 - [Introduction to ServiceNow System Property ServiceNow System Property Tips and Tricks with Demo](https://www.servicenow.com/community/developer-articles/introduction-to-servicenow-system-property-servicenow-system/ta-p/2362750)
 - [ServiceNow Webkit HTML to PDF Plugin | ServiceNow Plugins demo](https://www.servicenow.com/community/developer-articles/servicenow-webkit-html-to-pdf-plugin-servicenow-plugins-demo/ta-p/2362723)
 - [ServiceNow Flow Designer loop | ServiceNow loop in flow | ServiceNow Flow designer tips and tricks](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-loop-servicenow-loop-in-flow-servicenow/ta-p/2362706)
-- [Introduction to Service Catalog Variables with Demo | Service Catalog variables tips and tricks](https://www.servicenow.com/community/developer-articles/introduction-to-service-catalog-variables-with-demo-service/ta-p/2362649)
 <!-- BLOG-POST-LIST:END -->
 
 
