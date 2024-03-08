@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Field Changes in ServiceNow: Tips and Limits](https://www.servicenow.com/community/developer-articles/simplifying-field-changes-in-servicenow-tips-and-limits/ta-p/2855767)
 - [ServiceNow Slack Integration to Send Slack Messages](https://www.servicenow.com/community/developer-articles/servicenow-slack-integration-to-send-slack-messages/ta-p/2837954)
 - [Streamlining Data Retrieval in ServiceNow: The Power of Pagination with chooseWindow](https://www.servicenow.com/community/developer-articles/streamlining-data-retrieval-in-servicenow-the-power-of/ta-p/2827351)
 - [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
@@ -69,7 +70,6 @@
 - [ServiceNow Syntax Editor Macro | ServiceNow Introduction to Syntax Editor Macro with Demo](https://www.servicenow.com/community/developer-articles/servicenow-syntax-editor-macro-servicenow-introduction-to-syntax/ta-p/2362756)
 - [ServiceNow Glide Modal Prompt update pop up | ServiceNow Glide Modal use case with demo](https://www.servicenow.com/community/developer-articles/servicenow-glide-modal-prompt-update-pop-up-servicenow-glide/ta-p/2362755)
 - [Introduction to ServiceNow getBooleanValue function | ServiceNow Client script tricks and tips](https://www.servicenow.com/community/developer-articles/introduction-to-servicenow-getbooleanvalue-function-servicenow/ta-p/2362754)
-- [Introduction to ServiceNow System Property ServiceNow System Property Tips and Tricks with Demo](https://www.servicenow.com/community/developer-articles/introduction-to-servicenow-system-property-servicenow-system/ta-p/2362750)
 <!-- BLOG-POST-LIST:END -->
 
 
