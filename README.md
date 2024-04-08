@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekend-Free Changes in ServiceNow: GlideAjax Validation Explained](https://www.servicenow.com/community/itsm-articles/weekend-free-changes-in-servicenow-glideajax-validation/ta-p/2890616)
 - [Leveraging ServiceNow Record Producers for Streamlined Operations](https://www.servicenow.com/community/itsm-articles/leveraging-servicenow-record-producers-for-streamlined/ta-p/2877121)
 - [Harnessing the Power of Knowledge Management in ServiceNow](https://www.servicenow.com/community/itsm-articles/harnessing-the-power-of-knowledge-management-in-servicenow/ta-p/2858772)
 - [Simplifying Field Changes in ServiceNow: Tips and Limits](https://www.servicenow.com/community/developer-articles/simplifying-field-changes-in-servicenow-tips-and-limits/ta-p/2855767)
@@ -69,7 +70,6 @@
 - [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
 - [Convert Data policy to UI policy and Vice versa](https://www.servicenow.com/community/developer-articles/convert-data-policy-to-ui-policy-and-vice-versa/ta-p/2367689)
 - [ServiceNow Use case Field Visibility Based on Button | ServiceNow UI action Demo](https://www.servicenow.com/community/developer-articles/servicenow-use-case-field-visibility-based-on-button-servicenow/ta-p/2362758)
-- [ServiceNow Syntax Editor Macro | ServiceNow Introduction to Syntax Editor Macro with Demo](https://www.servicenow.com/community/developer-articles/servicenow-syntax-editor-macro-servicenow-introduction-to-syntax/ta-p/2362756)
 <!-- BLOG-POST-LIST:END -->
 
 
