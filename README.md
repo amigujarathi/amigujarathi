@@ -60,7 +60,6 @@
 - [Streamlining Data Retrieval in ServiceNow: The Power of Pagination with chooseWindow](https://www.servicenow.com/community/developer-articles/streamlining-data-retrieval-in-servicenow-the-power-of/ta-p/2827351)
 - [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
-- [ServiceNow Cloning: A Guide to Resolving Missing Attachments](https://www.servicenow.com/community/developer-articles/servicenow-cloning-a-guide-to-resolving-missing-attachments/ta-p/2759058)
 - [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
 - [ServiceNow JavaScript tutorials String functions | ServiceNow Javascript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2373677)
@@ -70,6 +69,7 @@
 - [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
 - [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 - [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
+- [Convert Data policy to UI policy and Vice versa](https://www.servicenow.com/community/developer-articles/convert-data-policy-to-ui-policy-and-vice-versa/ta-p/2367689)
 <!-- BLOG-POST-LIST:END -->
 
 
