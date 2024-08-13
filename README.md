@@ -50,7 +50,6 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating REST APIs with ServiceNow UI Builder](https://www.servicenow.com/community/architect-articles/integrating-rest-apis-with-servicenow-ui-builder/ta-p/3002456)
 - [Integrating APIs into ServiceNow&#39;s UI Builder: A Practical Guide](https://www.servicenow.com/community/next-experience-articles/integrating-apis-into-servicenow-s-ui-builder-a-practical-guide/ta-p/2974286)
 - [Unlock Powerful Metrics for Non-Task Tables with ServiceNow](https://www.servicenow.com/community/now-platform-articles/unlock-powerful-metrics-for-non-task-tables-with-servicenow/ta-p/2943782)
 - [ServiceNow Event Use Case: Simplify Incident Reassignment Notification](https://www.servicenow.com/community/now-platform-articles/servicenow-event-use-case-simplify-incident-reassignment/ta-p/2930690)
@@ -70,6 +69,7 @@
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 6-9](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2388700)
 - [The Ultimate Guide to ServiceNow Delta Exam: Mastering the Vancouver Release &lpar;2023-2024&rpar;](https://www.servicenow.com/community/community-resources/the-ultimate-guide-to-servicenow-delta-exam-mastering-the/ta-p/2733371)
 - [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
+- [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 <!-- BLOG-POST-LIST:END -->
 
 
