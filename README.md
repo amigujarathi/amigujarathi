@@ -64,12 +64,12 @@
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
 - [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
-- [ServiceNow JavaScript tutorials String functions | ServiceNow Javascript Examples on string function](https://www.servicenow.com/community/developer-articles/servicenow-javascript-tutorials-string-functions-servicenow/ta-p/2373677)
 - [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 6-9](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2388700)
 - [The Ultimate Guide to ServiceNow Delta Exam: Mastering the Vancouver Release &lpar;2023-2024&rpar;](https://www.servicenow.com/community/community-resources/the-ultimate-guide-to-servicenow-delta-exam-mastering-the/ta-p/2733371)
 - [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
 - [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
+- [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
 <!-- BLOG-POST-LIST:END -->
 
 
