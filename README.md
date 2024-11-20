@@ -66,10 +66,10 @@
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
 - [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 6-9](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2388700)
-- [The Ultimate Guide to ServiceNow Delta Exam: Mastering the Vancouver Release &lpar;2023-2024&rpar;](https://www.servicenow.com/community/community-resources/the-ultimate-guide-to-servicenow-delta-exam-mastering-the/ta-p/2733371)
 - [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
 - [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 - [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
+- [Convert Data policy to UI policy and Vice versa](https://www.servicenow.com/community/developer-articles/convert-data-policy-to-ui-policy-and-vice-versa/ta-p/2367689)
 <!-- BLOG-POST-LIST:END -->
 
 
