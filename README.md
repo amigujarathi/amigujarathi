@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering ServiceNow GitHub Integration: A Quick Guide](https://www.servicenow.com/community/servicenow-studio-articles/mastering-servicenow-github-integration-a-quick-guide/ta-p/3232635)
 - [Integrating APIs into ServiceNow&#39;s UI Builder: A Practical Guide](https://www.servicenow.com/community/next-experience-articles/integrating-apis-into-servicenow-s-ui-builder-a-practical-guide/ta-p/2974286)
 - [ServiceNow Event Use Case: Simplify Incident Reassignment Notification](https://www.servicenow.com/community/now-platform-articles/servicenow-event-use-case-simplify-incident-reassignment/ta-p/2930690)
 - [How to Generate CSV Files Effortlessly with ServiceNow Scripts: ServiceNow Scripting Usecase](https://www.servicenow.com/community/now-platform-articles/how-to-generate-csv-files-effortlessly-with-servicenow-scripts/ta-p/2926344)
@@ -69,7 +70,6 @@
 - [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 - [ServiceNow Get started with Remote Table](https://www.servicenow.com/community/developer-articles/servicenow-get-started-with-remote-table/ta-p/2373659)
 - [Convert Data policy to UI policy and Vice versa](https://www.servicenow.com/community/developer-articles/convert-data-policy-to-ui-policy-and-vice-versa/ta-p/2367689)
-- [ServiceNow Use case Field Visibility Based on Button | ServiceNow UI action Demo](https://www.servicenow.com/community/developer-articles/servicenow-use-case-field-visibility-based-on-button-servicenow/ta-p/2362758)
 <!-- BLOG-POST-LIST:END -->
 
 
