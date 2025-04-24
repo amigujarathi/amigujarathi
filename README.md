@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Field Population in ServiceNow: Mastering Catalog Data Lookup Definitions](https://www.servicenow.com/community/service-catalog-articles/effortless-field-population-in-servicenow-mastering-catalog-data/ta-p/3246098)
 - [Mastering Flow Triggers in ServiceNow Yokohama: A Practical Guide](https://www.servicenow.com/community/developer-articles/mastering-flow-triggers-in-servicenow-yokohama-a-practical-guide/ta-p/3244421)
 - [Mastering the Three-Strike Approval Process in ServiceNow: A Step-by-Step Guide](https://www.servicenow.com/community/developer-articles/mastering-the-three-strike-approval-process-in-servicenow-a-step/ta-p/3242677)
 - [Mastering ServiceNow GitHub Integration: A Quick Guide](https://www.servicenow.com/community/servicenow-studio-articles/mastering-servicenow-github-integration-a-quick-guide/ta-p/3232635)
@@ -69,7 +70,6 @@
 - [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 6-9](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2388700)
 - [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
-- [ServiceNow tutorial On Record producer bulk insert | ServiceNow Record Producer Use case](https://www.servicenow.com/community/developer-articles/servicenow-tutorial-on-record-producer-bulk-insert-servicenow/ta-p/2373662)
 <!-- BLOG-POST-LIST:END -->
 
 
