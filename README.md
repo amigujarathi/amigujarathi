@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Keep URL Fields Unlocked by Default in ServiceNow Forms](https://www.servicenow.com/community/developer-articles/how-to-keep-url-fields-unlocked-by-default-in-servicenow-forms/ta-p/3250725)
 - [Effortless Field Population in ServiceNow: Mastering Catalog Data Lookup Definitions](https://www.servicenow.com/community/service-catalog-articles/effortless-field-population-in-servicenow-mastering-catalog-data/ta-p/3246098)
 - [Mastering Flow Triggers in ServiceNow Yokohama: A Practical Guide](https://www.servicenow.com/community/developer-articles/mastering-flow-triggers-in-servicenow-yokohama-a-practical-guide/ta-p/3244421)
 - [Mastering the Three-Strike Approval Process in ServiceNow: A Step-by-Step Guide](https://www.servicenow.com/community/developer-articles/mastering-the-three-strike-approval-process-in-servicenow-a-step/ta-p/3242677)
@@ -69,7 +70,6 @@
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
 - [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 - [ServiceNow Introduction to GlideForm API = ServiceNow JavaScript Challenge Day 6-9](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glideform-api-servicenow-javascript/ta-p/2388700)
-- [ServiceNow flow designer tutorial to revert the version | ServiceNow flow designer version history](https://www.servicenow.com/community/developer-articles/servicenow-flow-designer-tutorial-to-revert-the-version/ta-p/2373668)
 <!-- BLOG-POST-LIST:END -->
 
 
