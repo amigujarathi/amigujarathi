@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of ServiceNow HRSD: A Beginner’s Guide to Modern HR Service Delivery](https://www.servicenow.com/community/hrsd-articles/unlocking-the-power-of-servicenow-hrsd-a-beginner-s-guide-to/ta-p/3266240)
 - [Mastering GlideRecord Update and Insert with Reference in ServiceNow: A Practical Guide](https://www.servicenow.com/community/developer-articles/mastering-gliderecord-update-and-insert-with-reference-in/ta-p/3256118)
 - [How to Keep URL Fields Unlocked by Default in ServiceNow Forms](https://www.servicenow.com/community/developer-articles/how-to-keep-url-fields-unlocked-by-default-in-servicenow-forms/ta-p/3250725)
 - [Effortless Field Population in ServiceNow: Mastering Catalog Data Lookup Definitions](https://www.servicenow.com/community/service-catalog-articles/effortless-field-population-in-servicenow-mastering-catalog-data/ta-p/3246098)
@@ -69,7 +70,6 @@
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
 - [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
-- [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 <!-- BLOG-POST-LIST:END -->
 
 
