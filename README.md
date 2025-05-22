@@ -65,11 +65,11 @@
 - [Harnessing the Power of Knowledge Management in ServiceNow](https://www.servicenow.com/community/itsm-articles/harnessing-the-power-of-knowledge-management-in-servicenow/ta-p/2858772)
 - [Simplifying Field Changes in ServiceNow: Tips and Limits](https://www.servicenow.com/community/developer-articles/simplifying-field-changes-in-servicenow-tips-and-limits/ta-p/2855767)
 - [ServiceNow Slack Integration to Send Slack Messages](https://www.servicenow.com/community/developer-articles/servicenow-slack-integration-to-send-slack-messages/ta-p/2837954)
-- [Streamlining Data Retrieval in ServiceNow: The Power of Pagination with chooseWindow](https://www.servicenow.com/community/developer-articles/streamlining-data-retrieval-in-servicenow-the-power-of/ta-p/2827351)
 - [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
 - [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 - [Effective Troubleshooting of Slow Transactions in ServiceNow](https://www.servicenow.com/community/developer-articles/effective-troubleshooting-of-slow-transactions-in-servicenow/ta-p/2748206)
+- [ServiceNow Introduction to Glide User API = ServiceNow JavaScript Challenge Day 10](https://www.servicenow.com/community/developer-articles/servicenow-introduction-to-glide-user-api-servicenow-javascript/ta-p/2388703)
 <!-- BLOG-POST-LIST:END -->
 
 
