@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with ServiceNow HRSD: Topics, Details, and Services](https://www.servicenow.com/community/hrsd-articles/getting-started-with-servicenow-hrsd-topics-details-and-services/ta-p/3286402)
 - [Unlocking HR Efficiency: Automating HR Requests with ServiceNow HRSD](https://www.servicenow.com/community/hrsd-articles/unlocking-hr-efficiency-automating-hr-requests-with-servicenow/ta-p/3286143)
 - [The Secret Sauce of ServiceNow HRSD: Assignment, Matching, and Escalation Rules](https://www.servicenow.com/community/hrsd-articles/the-secret-sauce-of-servicenow-hrsd-assignment-matching-and/ta-p/3273968)
 - [Unlocking the Power of ServiceNow HRSD: A Beginner’s Guide to Modern HR Service Delivery](https://www.servicenow.com/community/hrsd-articles/unlocking-the-power-of-servicenow-hrsd-a-beginner-s-guide-to/ta-p/3266240)
@@ -69,7 +70,6 @@
 - [ServiceNow Slack Integration to Send Slack Messages](https://www.servicenow.com/community/developer-articles/servicenow-slack-integration-to-send-slack-messages/ta-p/2837954)
 - [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
-- [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 <!-- BLOG-POST-LIST:END -->
 
 
