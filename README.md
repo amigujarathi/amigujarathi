@@ -59,7 +59,6 @@
 - [Effortless Field Population in ServiceNow: Mastering Catalog Data Lookup Definitions](https://www.servicenow.com/community/service-catalog-articles/effortless-field-population-in-servicenow-mastering-catalog-data/ta-p/3246098)
 - [Mastering Flow Triggers in ServiceNow Yokohama: A Practical Guide](https://www.servicenow.com/community/developer-articles/mastering-flow-triggers-in-servicenow-yokohama-a-practical-guide/ta-p/3244421)
 - [Mastering the Three-Strike Approval Process in ServiceNow: A Step-by-Step Guide](https://www.servicenow.com/community/developer-articles/mastering-the-three-strike-approval-process-in-servicenow-a-step/ta-p/3242677)
-- [Mastering ServiceNow GitHub Integration: A Quick Guide](https://www.servicenow.com/community/servicenow-studio-articles/mastering-servicenow-github-integration-a-quick-guide/ta-p/3232635)
 - [Integrating APIs into ServiceNow&#39;s UI Builder: A Practical Guide](https://www.servicenow.com/community/next-experience-articles/integrating-apis-into-servicenow-s-ui-builder-a-practical-guide/ta-p/2974286)
 - [ServiceNow Event Use Case: Simplify Incident Reassignment Notification](https://www.servicenow.com/community/servicenow-ai-platform-articles/servicenow-event-use-case-simplify-incident-reassignment/ta-p/2930690)
 - [How to Generate CSV Files Effortlessly with ServiceNow Scripts: ServiceNow Scripting Usecase](https://www.servicenow.com/community/servicenow-ai-platform-articles/how-to-generate-csv-files-effortlessly-with-servicenow-scripts/ta-p/2926344)
@@ -70,6 +69,7 @@
 - [ServiceNow Slack Integration to Send Slack Messages](https://www.servicenow.com/community/developer-articles/servicenow-slack-integration-to-send-slack-messages/ta-p/2837954)
 - [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
 - [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
+- [ServiceNow&#39;s Messaging API: Bridging the Gap with Third-Party Messaging Apps](https://www.servicenow.com/community/developer-articles/servicenow-s-messaging-api-bridging-the-gap-with-third-party/ta-p/2670861)
 <!-- BLOG-POST-LIST:END -->
 
 
