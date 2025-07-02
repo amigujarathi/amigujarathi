@@ -50,6 +50,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking ServiceNow UI Builder: From Blank Canvas to Custom Workspace](https://www.servicenow.com/community/developer-articles/unlocking-servicenow-ui-builder-from-blank-canvas-to-custom/ta-p/3306602)
 - [Unlocking Effortless HR: How ServiceNow HRSD Life Cycle Events Transform Employee Journeys](https://www.servicenow.com/community/hrsd-articles/unlocking-effortless-hr-how-servicenow-hrsd-life-cycle-events/ta-p/3299516)
 - [Unlocking Seamless HR Service Delivery with ServiceNow Employee Center Taxonomy](https://www.servicenow.com/community/hrsd-articles/unlocking-seamless-hr-service-delivery-with-servicenow-employee/ta-p/3290882)
 - [Getting Started with ServiceNow HRSD: Topics, Details, and Services](https://www.servicenow.com/community/hrsd-articles/getting-started-with-servicenow-hrsd-topics-details-and-services/ta-p/3286402)
@@ -69,7 +70,6 @@
 - [Harnessing the Power of Knowledge Management in ServiceNow](https://www.servicenow.com/community/itsm-articles/harnessing-the-power-of-knowledge-management-in-servicenow/ta-p/2858772)
 - [Simplifying Field Changes in ServiceNow: Tips and Limits](https://www.servicenow.com/community/developer-articles/simplifying-field-changes-in-servicenow-tips-and-limits/ta-p/2855767)
 - [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
-- [ServiceNow service portal widget tutorial | ServiceNow Create Custom Widget with demo](https://www.servicenow.com/community/developer-articles/servicenow-service-portal-widget-tutorial-servicenow-create/ta-p/2373674)
 <!-- BLOG-POST-LIST:END -->
 
 
