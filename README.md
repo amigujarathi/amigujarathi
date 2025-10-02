@@ -59,7 +59,6 @@
 - [The Secret Sauce of ServiceNow HRSD: Assignment, Matching, and Escalation Rules](https://www.servicenow.com/community/hrsd-articles/the-secret-sauce-of-servicenow-hrsd-assignment-matching-and/ta-p/3273968)
 - [Unlocking the Power of ServiceNow HRSD: A Beginner’s Guide to Modern HR Service Delivery](https://www.servicenow.com/community/hrsd-articles/unlocking-the-power-of-servicenow-hrsd-a-beginner-s-guide-to/ta-p/3266240)
 - [Mastering GlideRecord Update and Insert with Reference in ServiceNow: A Practical Guide](https://www.servicenow.com/community/developer-articles/mastering-gliderecord-update-and-insert-with-reference-in/ta-p/3256118)
-- [How to Keep URL Fields Unlocked by Default in ServiceNow Forms](https://www.servicenow.com/community/developer-articles/how-to-keep-url-fields-unlocked-by-default-in-servicenow-forms/ta-p/3250725)
 - [Effortless Field Population in ServiceNow: Mastering Catalog Data Lookup Definitions](https://www.servicenow.com/community/service-catalog-articles/effortless-field-population-in-servicenow-mastering-catalog-data/ta-p/3246098)
 - [Mastering Flow Triggers in ServiceNow Yokohama: A Practical Guide](https://www.servicenow.com/community/developer-articles/mastering-flow-triggers-in-servicenow-yokohama-a-practical-guide/ta-p/3244421)
 - [Mastering the Three-Strike Approval Process in ServiceNow: A Step-by-Step Guide](https://www.servicenow.com/community/developer-articles/mastering-the-three-strike-approval-process-in-servicenow-a-step/ta-p/3242677)
@@ -70,6 +69,7 @@
 - [Leveraging ServiceNow Record Producers for Streamlined Operations](https://www.servicenow.com/community/itsm-articles/leveraging-servicenow-record-producers-for-streamlined/ta-p/2877121)
 - [Harnessing the Power of Knowledge Management in ServiceNow](https://www.servicenow.com/community/itsm-articles/harnessing-the-power-of-knowledge-management-in-servicenow/ta-p/2858772)
 - [Simplifying Field Changes in ServiceNow: Tips and Limits](https://www.servicenow.com/community/developer-articles/simplifying-field-changes-in-servicenow-tips-and-limits/ta-p/2855767)
+- [Glide Script To Identify Excessive Record Updates by Users](https://www.servicenow.com/community/developer-articles/glide-script-to-identify-excessive-record-updates-by-users/ta-p/2827660)
 <!-- BLOG-POST-LIST:END -->
 
 
